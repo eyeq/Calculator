@@ -1,0 +1,12 @@
+.background {
+  -fx-background-color: #333366;
+}
+.pre_display {
+  -fx-background-color: #BBBBBB;
+}
+.display {
+  -fx-background-color: #CCCCCC;
+}
+.button {
+  -fx-background-color: #C0C0C0;
+}
