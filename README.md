@@ -1,14 +1,14 @@
 # Calculator
-  
+
 何のへんてつもない関数電卓  
-  
+
 http://commons.apache.org/proper/commons-lang/  
 http://arxiv.org/abs/0908.3030  
 上記ライブラリを使用しています  
-  
+
 org.apache.commons.lang3 is licensed under the AL v2.0.  
 org.neverc.rjm           is licensed under the LGPL v3.0.  
-  
+
 最大桁数256の精度で計算します。  
 三角関数、log10、ラジアン変換はdouble値精度です。  
 
