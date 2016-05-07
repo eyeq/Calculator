@@ -12,7 +12,7 @@ org.neverc.rjm           is licensed under the LGPL v3.0.
 最大桁数256の精度で計算します。  
 三角関数、log10、ラジアン変換はdouble値精度です。  
 
-https://github.com/eyeq/Calculator/wiki/screenshot.png
+![](https://github.com/eyeq/Calculator/wiki/screenshot.png)
 
 ## 2引数関数
 
